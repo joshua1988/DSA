@@ -1,4 +1,4 @@
-> This repository is to implement the basic data structure and algorithm with Javascript which is my favorite language.
+> This repository is to implement the basic data structure and algorithm with **Javascript** which is my favorite language.
 
 ## Data Structure
 - Linked List
